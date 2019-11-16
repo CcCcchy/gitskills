@@ -8,4 +8,8 @@ Creating a branch is quick and simple.
 Creating a branch is quick and simple.
 >>>>>>> feature1
 add merge (fast forward模式）
-now we testing the stash
+<<<<<<< HEAD
+now we testing the stash test git push
+=======
+now we testing the stash test git push
+>>>>>>> dev
